@@ -43,7 +43,7 @@ Created a new virtual machine
 
 - Selected (Desktop Experience)
 
-![Select-Distribution](images/windows-server-installation/select-distribution.png)
+![Select-Distribution](images/windows-server-installation/distribution-selection.png)
 
 ### 4. Disk Partitioning
 
