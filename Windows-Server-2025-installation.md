@@ -24,7 +24,7 @@ Created a new virtual machine
 
 - Attached the Windows Server 2025 ISO
 
-
+![VM Setup](images/windows-server-installation/vm-setup.png)
 
 
 
