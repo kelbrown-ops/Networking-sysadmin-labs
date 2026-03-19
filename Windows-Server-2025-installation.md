@@ -69,6 +69,11 @@ Created a new virtual machine
 
 ![Set-administrator-password](images/windows-server-installation/Setup-administrator-password.png)
 
+### 7. Server Manager Interface
+- This is where most the server configurations is done
+
+  ![Server-Manager](images/windows-server-installation/Server-Manager-Interface.png)
+
 ## Challenges Encountered
 
 - ISO file disk had wasn't loading properly so installation terminated on 2 attempts.
