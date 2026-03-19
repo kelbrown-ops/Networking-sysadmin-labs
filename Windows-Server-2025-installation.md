@@ -27,7 +27,6 @@ Created a new virtual machine
 ![VM Setup](images/windows-server-installation/vm-setup.png)
 
 
-
 ### 2. Starting Installation
 
 - Booted from ISO
@@ -36,7 +35,7 @@ Created a new virtual machine
 
 - Clicked "Install Now"
 
-
+![Installation-starts](images/windows-server-installation/installation-starts.png)
 
 ### 3. Selecting OS Version
 
@@ -44,7 +43,7 @@ Created a new virtual machine
 
 - Selected (Desktop Experience)
 
-
+![Select-Distribution](images/windows-server-installation/select-distribution.png)
 
 ### 4. Disk Partitioning
 
@@ -52,7 +51,7 @@ Created a new virtual machine
 
 - Used default partition
 
-
+![Disk-partitioning](images/windows-server-installation/disk-partition.png)
 
 ### 5. Installation Process
 
@@ -68,7 +67,7 @@ Created a new virtual machine
 
 - Logged into the system
 
-📸 Insert screenshot here
+![Set-administrator-password](images/windows-server-installation/Setup-administrator-password.png)
 
 ## Challenges Encountered
 
