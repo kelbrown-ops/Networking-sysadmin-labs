@@ -59,7 +59,7 @@ Created a new virtual machine
 
 - System restarted automatically
 
-📸 Insert screenshot here
+![installation-starts](images/windows-server-installation/installation-starts.png)
 
 ### 6. Initial Setup
 
@@ -71,9 +71,8 @@ Created a new virtual machine
 
 ## Challenges Encountered
 
-(Example: Network not working initially)
+- ISO file disk had wasn't loading properly so installation terminated on 2 attempts.
 
-(Example: VM settings issue)
 
 ## What I Learned
 
