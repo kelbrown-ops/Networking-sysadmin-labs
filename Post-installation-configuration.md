@@ -25,7 +25,7 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 - Navigated to the Local Server panel
 - Changed the date and time zone
 
-![date_and_time](images/post-server-configurations/server_dashboard.png)
+![date_and_time](images/post-server-configurations/Time_and_date_settings.png)
 
 
 ### 3. Renaming the Server
@@ -36,9 +36,15 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Applied changes
 
+![renaming_server](images/post-server-configurations/Change_server_name.png)
+
+
 ### 4. Restarting the Server
 
 - Restarted the system to apply the new server name
+
+   ![restarting](images/post-server-configurations/restarting_server.png)
+
 
 ### 5. Verifying Changes
 
@@ -46,11 +52,9 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Confirmed the new server name was successfully applied
 
-## Challenges Encountered
+## No major issues encountered
 
-(Add any issue you faced, if none, write: “No major issues encountered”)
-
-## What I Learned
+## Lession learned
 
 - Importance of assigning a proper server name in a network environment
 
