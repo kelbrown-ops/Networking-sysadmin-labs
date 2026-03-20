@@ -19,7 +19,7 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Accessed Server Manager dashboard
 
-![Server-dashboard](images/post-installation-configurations/server_dashboard.png)
+![server_dashboard](images/post-installation-configuration/server_dashboard.png)
 
 ### 2. Configuring Date and Time
 - Navigated to the Local Server panel
