@@ -11,12 +11,15 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Prepare the system for further configuration
 
+
 ## Tasks Performed
 ### 1. Opening Server Manager
 
 - Logged into the server using Administrator credentials
 
 - Accessed Server Manager dashboard
+
+![Server-dashboard](images/post-installation-configuration/server_dashboard.png)
 
 ### 2. Configuring Date and Time
 - Navigated to the Local Server panel
