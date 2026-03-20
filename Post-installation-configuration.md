@@ -19,11 +19,14 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Accessed Server Manager dashboard
 
-![server_dashboard]
+![server_dashboard](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/post-server-configurations/server_dashboard.png)
 
 ### 2. Configuring Date and Time
 - Navigated to the Local Server panel
 - Changed the date and time zone
+
+![date_and_time](images/post-server-configurations/server_dashboard.png)
+
 
 ### 3. Renaming the Server
 
