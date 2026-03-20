@@ -18,7 +18,11 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Accessed Server Manager dashboard
 
-### 2. Renaming the Server
+### 2. Configuring Date and Time
+- Navigated to the Local Server panel
+- Changed the date and time zone
+
+### 3. Renaming the Server
 
 - Navigated to system settings
 
@@ -26,11 +30,11 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Applied changes
 
-### 3. Restarting the Server
+### 4. Restarting the Server
 
 - Restarted the system to apply the new server name
 
-### 4. Verifying Changes
+### 5. Verifying Changes
 
 - Logged back into the system
 
