@@ -36,7 +36,7 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Applied changes
 
-![renaming_server](images/post-server-configurations/Name.png)
+![renaming_server](images/post-server-configurations/Named.png)
 
 
 ### 4. Restarting the Server
@@ -51,6 +51,9 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 - Logged back into the system
 
 - Confirmed the new server name was successfully applied
+
+![name_confirmed](images/post-server-configurations/name_confirmed.png)
+
 
 ## No major issues encountered
 
