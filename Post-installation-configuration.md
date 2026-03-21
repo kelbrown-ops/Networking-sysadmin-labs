@@ -32,11 +32,11 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Navigated to system settings
 
-- Changed the default server name to: "Local_Server"
+- Changed the default server name to: "MainServer"
 
 - Applied changes
 
-![renaming_server](images/post-server-configurations/Change_server_name.png)
+![renaming_server](images/post-server-configurations/Name.png)
 
 
 ### 4. Restarting the Server
