@@ -34,7 +34,7 @@ In this lab, I joined a Windows client machine to a domain created using Windows
 - Entered domain administrator credentials
 - Successfully authenticated
 
-![authentication](images/domain-join/authentication.png)
+![authentication](images/domain-join/authentication-successful.png)
 
 ### 5. Restarting the Client
 - Restarted the client machine to apply changes
