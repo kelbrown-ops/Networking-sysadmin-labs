@@ -49,10 +49,10 @@ In this lab, I joined a Windows client machine to a domain created using Windows
 
 
 ## Challenges Encountered
-- (Add issues or: “No major issues encountered”)
+- Testing connectivity between client and domain failed initially.
+
 ## What I Learned
 - How domain-based authentication works
-- Importance of DNS configuration in domain environments
 - Process of integrating client machines into Active Directory
 ## Next Steps
 - Create domain users and groups
