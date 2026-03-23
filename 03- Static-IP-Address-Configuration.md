@@ -57,7 +57,7 @@ In this lab, I configured a static IP address on Windows Server 2025 to ensure c
 
 ## Challenges Encountered
 
-(Add any issue, or write: “No major issues encountered”)
+- No major issues encountered
 
 ## Lesson learned
 
@@ -75,6 +75,6 @@ In this lab, I configured a static IP address on Windows Server 2025 to ensure c
 
 - Begin Active Directory setup
 
-💭 Final Thoughts
+## Final Thoughts
 
 - Configuring a static IP is a critical step in server setup, ensuring consistent communication and reliability in network environments.
