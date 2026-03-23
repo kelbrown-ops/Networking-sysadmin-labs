@@ -40,7 +40,6 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 
 ### 5. Configuring Gateway and DNS
 - Added default gateway (router/server IP)
-- Added DNS server (Domain Controller IP)
 
 
 ### 6. Activating the Scope
