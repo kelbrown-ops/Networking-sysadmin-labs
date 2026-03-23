@@ -16,15 +16,19 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 - Selected DHCP Server
 - Completed installation
 
-![dhcp-feature]
+![dhcp-feature](images/07-%20dhcp-configuration/dhcp-authorisation.png)
 
 ### 2. Authorizing DHCP Server
 - Opened DHCP Management Console
 - Authorized the DHCP server in Active Directory
 
+![dhcp-authorisation](images/07-%20dhcp-configuration/dhcp-authorisation.png)
+
 ### 3. Creating a New Scope
 - Right-clicked on IPv4 → New Scope
 - Entered scope name
+
+![scope-name](images/07-%20dhcp-configuration/scope-name.png)
 
 ### 4. Configuring IP Range
 - Defined IP address range:
@@ -32,13 +36,17 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 - End IP: (e.g., 192.168.1.200)
 - Subnet Mask: (e.g., 255.255.255.0)
 
+![ip-range](images/07-%20dhcp-configuration/ip-range.png)
+
 ### 5. Configuring Gateway and DNS
 - Added default gateway (router/server IP)
 - Added DNS server (Domain Controller IP)
 
+
 ### 6. Activating the Scope
 - Activated the DHCP scope
 - Verified it is running
+
 
 ### 7. Testing DHCP Assignment
 - Set client machine to obtain IP automatically
@@ -46,8 +54,8 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 - ipconfig /renew
 - Verified assigned IP from DHCP range
 
-## Challenges Encountered
-- (Add issues or: “No major issues encountered”)
+![verified-dhcp](images/07-%20dhcp-configuration/verified-dhcp.png)
+
 ## What I Learned
 - How DHCP automates IP address assignment
 - Importance of scopes in network management
