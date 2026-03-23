@@ -7,12 +7,16 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 - Install DHCP Server role
 - Configure a DHCP scope
 - Enable automatic IP address assignment
+
+  
 ## Configuration Steps
 ### 1. Installing DHCP Server Role
 - Opened Server Manager
 - Clicked Add Roles and Features
 - Selected DHCP Server
 - Completed installation
+
+![dhcp-feature]
 
 ### 2. Authorizing DHCP Server
 - Opened DHCP Management Console
