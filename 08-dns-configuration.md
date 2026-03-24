@@ -25,16 +25,22 @@ In this lab, I configured Domain Name System (DNS) on Windows Server 2025 to sup
 - Name (e.g., server1)
 - IP address
 
+![dns-host-name](images/dns-configuration/dns-host-name.png)
+
 ### 5. Testing DNS Resolution
 - Opened Command Prompt
 - Ran:
  nslookup server1
 - Verified correct IP resolution
 
+![nslookup](images/dns-configuration/nslookup.png)
+
 ### 6. Testing Domain Resolution
 - Pinged the domain name:
 ping yourdomain.local
 - Confirmed successful response
+
+![test-dns](main/images/dns-configuration/test-dns.png)
 
 ## Challenges Encountered
 - (Add issues or: “No major issues encountered”)
