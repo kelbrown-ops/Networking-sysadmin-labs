@@ -1,7 +1,7 @@
 # DNS Configuration (Windows Server 2025)
 ## Overview
 
-In this lab, I configured Domain Name System (DNS) on Windows Server 2025 to support name resolution within the domain environment.
+In this lab, I configured Domain Name System (DNS) on Windows Server 2025 to ensure domain name resolution within the domain environment.
 
 ## Objective
 - Configure DNS for domain name resolution
