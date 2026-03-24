@@ -17,12 +17,12 @@ In this lab, I configured Domain Name System (DNS) on Windows Server 2025 to sup
 
 ### 3. Inspecting Forward Lookup Zones
 - Expanded server → Forward Lookup Zones
-- Verified domain zone (e.g., lab.local) exists
+- Verified domain zone (mainserver) exists
 
 ### 4. Creating a New Host (A Record)
 - Right-clicked on the zone → New Host (A or AAAA)
 - Entered:
-- Name (e.g., server1)
+- Name (server1)
 - IP address
 
 ![dns-host-name](images/dns-configuration/dns-host-name.png)
