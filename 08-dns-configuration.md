@@ -40,7 +40,7 @@ In this lab, I configured Domain Name System (DNS) on Windows Server 2025 to sup
 ping yourdomain.local
 - Confirmed successful response
 
-![test-dns](main/images/dns-configuration/test-dns.png)
+![test-dns](images/dns-configuration/test-dns.png)
 
 ## Challenges Encountered
 - (Add issues or: “No major issues encountered”)
