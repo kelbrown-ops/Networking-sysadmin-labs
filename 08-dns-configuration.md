@@ -42,9 +42,8 @@ ping yourdomain.local
 
 ![test-dns](images/dns-configuration/test-dns.png)
 
-## Challenges Encountered
-- (Add issues or: “No major issues encountered”)
-## What I Learned
+
+## Lesson learned 
 - Role of DNS in domain environments
 - How name resolution works
 - Importance of DNS in Active Directory functionality
