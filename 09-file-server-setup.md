@@ -9,29 +9,41 @@ In this lab, I configured file sharing on Windows Server 2025 to allow network u
 - Enable network access for users
 ## Configuration Steps
 ### 1. Creating a Shared Folder
-- Created a new folder (e.g., SharedFiles)
+- Created a new folder (e.g., Shared_folder)
 - Located on local disk
+
+![shared_folder](images/file-server/shared_folder.png)
 
 ### 2. Configuring Share Permissions
 - Right-clicked folder → Properties → Sharing
 - Clicked Advanced Sharing
 - Enabled Share this folder
 
+![share_enabled](images/file-server/share-enabled.png)
+
 ### 3. Setting Permissions
 - Added users/groups
-- Assigned permissions (Read/Write as needed)
+- Assigned permissions: Read/Write (as needed)
+
+![added-group](images/file-server/added-group.png)
 
 ### 4. Configuring NTFS Permissions
 - Navigated to Security tab
 - Adjusted access control for users
 
+![NTFS-permissions](images/file-server/NTFS-permissions.png)
+
 ### 5. Accessing Shared Folder from Client
 - On client machine, opened Run:
 \\server-name\SharedFiles
+
+![folder-path](images/file-server/folder-path.png)
+
 - Verified access
 
-## Challenges Encountered
-(Add issues or: “No major issues encountered”)
+![verified-access](images/file-server/verified-access.png)
+
+
 ## What I Learned
 - Difference between share and NTFS permissions
 - How to control access to network resources
