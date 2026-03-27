@@ -13,26 +13,36 @@ In this lab, I configured Shadow Copies on Windows Server 2025 to enable file re
 - clicked on the drive (e.g., C: or D:)
 - Selected Properties → Shadow Copies
 
-![shadow-copy](
+![shadow-copy](images/shadow-copies/shadow-copy.png)
 
 ### 2. Enabling Shadow Copies
 - Selected the drive
 - Clicked Enable
 - Configured storage settings (optional)
 
+![copy-enabled](images/shadow-copies/copy-enabled.png)
+
 ### 3. Creating a Restore Point
 - Clicked Create Now to manually create a snapshot
 
+![create-now](images/shadow-copies/create-now.png)
+
 ### 4. Simulating File Deletion
 - Deleted or modified a file in the shared folder
+
+- ![delete1](images/shadow-copies/delete1.png)
+
+- ![delete2](images/shadow-copies/delete2.png)
 
 ### 5. Restoring Previous Version
 - Right-clicked folder → Properties → Previous Versions
 - Selected a snapshot
 - Clicked Restore or Open
 
+![restore-confirmed](images/shadow-copies/restore-confirmed.png)
+
 ## Challenges Encountered
-- (Add issues or: “No major issues encountered”)
+- No major issues encountered
 ## What I Learned
 - How Shadow Copies provide backup and recovery
 - Importance of data protection in network environments
