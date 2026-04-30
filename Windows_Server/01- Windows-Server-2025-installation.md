@@ -24,7 +24,7 @@ Created a new virtual machine
 
 - Attached the Windows Server 2025 ISO
 
-![VM Setup](images/windows-server-installation/vm-setup.png)
+![VM Setup](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/windows-server-installation/vm-setup.png)
 
 
 ### 2. Starting Installation
@@ -35,7 +35,7 @@ Created a new virtual machine
 
 - Clicked "Install Now"
 
-![Installation-starts](images/windows-server-installation/installation-starts.png)
+![Installation-starts](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/windows-server-installation/installation-starts.png)
 
 ### 3. Selecting OS Version
 
@@ -43,7 +43,7 @@ Created a new virtual machine
 
 - Selected (Desktop Experience)
 
-![Select-Distribution](images/windows-server-installation/distribution-selection.png)
+![Select-Distribution](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/windows-server-installation/distribution-selection.png)
 
 ### 4. Disk Partitioning
 
@@ -51,7 +51,7 @@ Created a new virtual machine
 
 - Used default partition
 
-![Disk-partitioning](images/windows-server-installation/disk-partition.png)
+![Disk-partitioning](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/windows-server-installation/disk-partition.png)
 
 ### 5. Installation Process
 
@@ -59,7 +59,7 @@ Created a new virtual machine
 
 - System restarted automatically
 
-![installation-starts](images/windows-server-installation/installation-starts.png)
+![installation-starts](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/windows-server-installation/installation-starts.png)
 
 ### 6. Initial Setup
 
@@ -67,12 +67,12 @@ Created a new virtual machine
 
 - Logged into the system
 
-![Set-administrator-password](images/windows-server-installation/Setup-administrator-password.png)
+![Set-administrator-password](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/windows-server-installation/Setup-administrator-password.png)
 
 ### 7. Server Manager Interface
 - This is where most the server configurations is done
 
-  ![Server-Manager](images/windows-server-installation/Server-Manager-Interface.png)
+  ![Server-Manager](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/windows-server-installation/Server-Manager-Interface.png)
 
 ## Challenges Encountered
 
