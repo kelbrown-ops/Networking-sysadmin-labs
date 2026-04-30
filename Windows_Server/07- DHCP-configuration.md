@@ -16,19 +16,19 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 - Selected DHCP Server
 - Completed installation
 
-![dhcp-feature](images/dhcp-configuration/dhcp-authorisation.png)
+![dhcp-feature](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dhcp-configuration/dhcp-feature.png)
 
 ### 2. Authorizing DHCP Server
 - Opened DHCP Management Console
 - Authorized the DHCP server in Active Directory
 
-![dhcp-authorisation](images/dhcp-configuration/dhcp-authorisation.png)
+![dhcp-authorisation](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dhcp-configuration/dhcp-authorisation.png)
 
 ### 3. Creating a New Scope
 - Right-clicked on IPv4 → New Scope
 - Entered scope name
 
-![scope-name](images/dhcp-configuration/scope-name.png)
+![scope-name](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dhcp-configuration/scope-name.png)
 
 ### 4. Configuring IP Range
 - Defined IP address range:
@@ -36,7 +36,7 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 - End IP: (e.g., 192.168.1.200)
 - Subnet Mask: (e.g., 255.255.255.0)
 
-![ip-range](images/dhcp-configuration/ip-range.png)
+![ip-range](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dhcp-configuration/ip-range.png)
 
 ### 5. Configuring Gateway and DNS
 - Added default gateway (router/server IP)
@@ -53,7 +53,7 @@ In this lab, I installed and configured Dynamic Host Configuration Protocol (DHC
 - ipconfig /renew
 - Verified assigned IP from DHCP range
 
-![verified-dhcp](images/dhcp-configuration/verified-dhcp.png)
+![verified-dhcp](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dhcp-configuration/verified-dhcp.png)
 
 ## What I Learned
 - How DHCP automates IP address assignment
