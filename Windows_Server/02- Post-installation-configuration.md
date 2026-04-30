@@ -25,7 +25,7 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 - Navigated to the Local Server panel
 - Changed the date and time zone
 
-![date_and_time](images/post-server-configurations/Time_and_date_settings.png)
+![date_and_time](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/post-server-configurations/Time_and_date_settings.png)
 
 
 ### 3. Renaming the Server
@@ -36,14 +36,14 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Applied changes
 
-![renaming_server](images/post-server-configurations/Named.png)
+![renaming_server](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/post-server-configurations/Named.png)
 
 
 ### 4. Restarting the Server
 
 - Restarted the system to apply the new server name
 
-   ![restarting](images/post-server-configurations/restarting_server.png)
+   ![restarting](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/post-server-configurations/restarting_server.png)
 
 
 ### 5. Verifying Changes
@@ -52,10 +52,10 @@ In this lab, I performed initial post-installation configuration on Windows Serv
 
 - Confirmed the new server name was successfully applied
 
-![name_confirmed](images/post-server-configurations/name_confirmed.png)
+![name_confirmed](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/post-server-configurations/name_confirmed.png)
 
 
-## No major issues encountered
+
 
 ## Lession learned
 
