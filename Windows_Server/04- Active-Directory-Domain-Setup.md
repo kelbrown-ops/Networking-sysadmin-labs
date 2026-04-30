@@ -42,7 +42,6 @@ In this lab, I installed and configured Active Directory Domain Services (AD DS)
 - Confirmed domain was created
 - Opened Active Directory Users and Computers
 
-![AD_DS_Confirmed](images/active-directory-setup/AD_DS-confirmed.png)
 
 ## Challenges Encountered
 - (Add any issues or write: “No major issues encountered”)
