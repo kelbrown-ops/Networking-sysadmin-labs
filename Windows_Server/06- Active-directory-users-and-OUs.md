@@ -12,14 +12,14 @@ In this lab, I created users and Organizational Units (OUs) in Active Directory 
 - Opened Server Manager
 - Navigated to Tools → Active Directory Users and Computers
 
-![tools](images/ad-users-ous/Tools.png)
+![tools](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/ad-users-ous/Tools.png)
 
 ### 2. Creating an Organizational Unit (OU)
 - Right-clicked on the domain
 - Selected New → Organizational Unit
 - Created OU: (e.g., IT Department)
 
-![IT-dept](images/ad-users-ous/created-ou.png)
+![IT-dept](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/ad-users-ous/created-ou.png)
 
 ### 3. Creating a New User
 - Navigated into the OU
@@ -29,20 +29,20 @@ Username,
 Full name,
 Password.
 
-![new-user](images/ad-users-ous/new-user.png)
+![new-user](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/ad-users-ous/new-user.png)
 
 ### 4. Setting User Password Options
 - Configured password settings:
 - User must change password at next logon (optional)
 - Password never expires (optional for lab)
 
-![password](images/ad-users-ous/password-settings.png)
+![password](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/ad-users-ous/password-settings.png)
 
 ### 5. Verifying User Creation
 - Confirmed the user appears in the OU
 - Checked user properties
 
-![user-confirmed](images/ad-users-ous/user-confirmed.png)
+![user-confirmed](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/ad-users-ous/user-confirmed.png)
 
 ## Challenges Encountered
 - No major issues encountered
