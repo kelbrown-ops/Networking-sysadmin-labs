@@ -16,7 +16,7 @@
 - Expanded domain
 - Right-clicked Default Domain Policy → Edit
 
-![domain-policy](images/group-policy-configurations/Domain-policy.png)
+![domain-policy](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/group-policy-configurations/Domain-policy.png)
 
 ### 3. Configuring Password Policy
 - Navigated to:
@@ -31,13 +31,13 @@
 - Password complexity
 - Expiration
 
-![policy-settings](images/group-policy-configurations/policy-settings.png)
+![policy-settings](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/group-policy-configurations/policy-settings.png)
 
 ### 4. Applying Policy
 - Ran:
 gpupdate /force
 
-![applying-policy](images/group-policy-configurations/applying-policy.png)
+![applying-policy](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/group-policy-configurations/applying-policy.png)
 
 ### 5. Verifying Policy
 - Tested with a user account
