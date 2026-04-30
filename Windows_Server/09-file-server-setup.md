@@ -12,36 +12,36 @@ In this lab, I configured file sharing on Windows Server 2025 to allow network u
 - Created a new folder (e.g., Shared_folder)
 - Located on local disk
 
-![shared_folder](images/file-server/shared_folder.png)
+![shared_folder](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/file-server/shared_folder.png)
 
 ### 2. Configuring Share Permissions
 - Right-clicked folder → Properties → Sharing
 - Clicked Advanced Sharing
 - Enabled Share this folder
 
-![share_enabled](images/file-server/share-enabled.png)
+![share_enabled](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/file-server/share-enabled.png)
 
 ### 3. Setting Permissions
 - Added users/groups
 - Assigned permissions: Read/Write (as needed)
 
-![added-group](images/file-server/added-group.png)
+![added-group](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/file-server/added-group.png)
 
 ### 4. Configuring NTFS Permissions
 - Navigated to Security tab
 - Adjusted access control for users
 
-![NTFS-permissions](images/file-server/NTFS-permissions.png)
+![NTFS-permissions](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/file-server/NTFS-permissions.png)
 
 ### 5. Accessing Shared Folder from Client
 - On client machine, opened Run:
 \\server-name\SharedFiles
 
-![folder-path](images/file-server/folder-path.png)
+![folder-path](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/file-server/folder-path.png)
 
 - Verified access
 
-![verified-access](images/file-server/verified-access.png)
+![verified-access](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/file-server/verified-access.png)
 
 
 ## What I Learned
