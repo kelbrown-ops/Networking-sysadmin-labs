@@ -15,27 +15,27 @@ In this lab, I installed and configured Active Directory Domain Services (AD DS)
 - Selected Active Directory Domain Services
 - Completed installation
 
-![AD_DS_Installation](images/active-directory-setup/AD_DS-installation-complete.png)
+![AD_DS_Installation](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/active-directory-setup/AD_DS-installation-complete.png)
 
 ### 2. Promoting Server to Domain Controller
 - Clicked on Promote this server to a domain controller
 - Selected Add a new forest
 - Entered domain name: (KELBROWN.COM)
 
-![Domain_name](images/active-directory-setup/Domain-name.png)
+![Domain_name](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/active-directory-setup/Domain-name.png)
 
 ### 3. Domain Controller Configuration
 - Set Directory Services Restore Mode (DSRM) password
 - Selected default options for DNS and NetBIOS
 
-![Admin_Password](images/active-directory-setup/DRSM-password.png)
+![Admin_Password](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/active-directory-setup/DRSM-password.png)
 
 ### 4. Completing Installation
 - Reviewed configuration
 - Clicked Install
 - Server automatically restarted
 
-![Installation_Completed](images/active-directory-setup/AD_DS-confirmed.png)
+![Installation_Completed](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/active-directory-setup/AD_DS-confirmed.png)
 
 ### 5. Verifying Domain Setup
 - Logged back into the server
