@@ -26,7 +26,7 @@ In this lab, I established a remote connection to my Linux server using SSH from
 * Confirmed that the SSH service was running
 
 ---
-
+![ssh_service_status]
 ### 2. Identifying Server IP Address
 
 * Retrieved IP address using:
