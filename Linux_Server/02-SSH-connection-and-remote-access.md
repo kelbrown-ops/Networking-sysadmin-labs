@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lab, I established a remote connection to my Linux server using SSH from a Windows client machine.
+In this lab, I established a remote connection to my Linux server using SSH from a Windows client machine. Due to issues with the native SSH command-line tool, I used PuTTY to successfully connect.
 
 ---
 
@@ -26,7 +26,7 @@ In this lab, I established a remote connection to my Linux server using SSH from
 * Confirmed that the SSH service was running
 
 ---
-![ssh_service_status]
+
 ### 2. Identifying Server IP Address
 
 * Retrieved IP address using:
@@ -38,45 +38,47 @@ In this lab, I established a remote connection to my Linux server using SSH from
 
 ---
 
-### 3. Preparing Windows Client
+### 3. Attempting SSH via Command Prompt
 
-* Attempted SSH connection via Command Prompt
-* Encountered error: SSH not recognized
-* Installed OpenSSH Client on Windows
-
----
-
-### 4. Establishing SSH Connection
-
-* Connected using:
+* Tried connecting using:
 
   ```
   ssh username@server-ip
   ```
-* Accepted host key verification
-* Entered user password
+* Encountered error:
+  *“ssh is not recognized as an internal or external command”*
 
 ---
 
-### 5. Successful Remote Login
+### 4. Using PuTTY for SSH Connection
 
-* Gained terminal access to the Linux server from Windows
-* Verified full remote control capability
+* Installed and launched PuTTY
+* Entered server IP address
+* Set connection type to SSH (port 22)
+* Initiated connection
+
+---
+
+### 5. Establishing Connection
+
+* Accepted security/host key prompt
+* Entered Linux server username and password
+* Successfully logged into the server
 
 ---
 
 ## ⚠️ Challenges Encountered
 
-* SSH command not recognized on Windows
-* Resolved by installing PuTTY on client machine
+* Native SSH command not available on Windows
+* Resolved by using PuTTY as an alternative SSH client
 
 ---
 
 ## 📚 What I Learned
 
-* SSH is essential for remote server management
-* Windows requires OpenSSH Client for terminal-based connections
-* Network configuration must allow both machines to communicate
+* SSH is essential for remote server administration
+* Multiple tools (CLI and GUI) can be used to establish SSH connections
+* Understanding alternatives like PuTTY is important in real-world scenarios
 
 ---
 
@@ -86,9 +88,9 @@ In this lab, I established a remote connection to my Linux server using SSH from
 
 * SSH service status on server
 * IP address output (`ip a`)
-* Windows error (SSH not recognized)
-* OpenSSH Client installation
-* Successful SSH login
+* Command Prompt SSH error
+* PuTTY configuration window
+* Successful SSH login session
 
 ---
 
@@ -102,4 +104,4 @@ In this lab, I established a remote connection to my Linux server using SSH from
 
 ## 💭 Final Thoughts
 
-SSH provides a secure and efficient way to manage servers remotely. Establishing a working SSH connection is a fundamental step in real-world system administration.
+Establishing remote access using SSH is a critical skill in system administration. While command-line tools are commonly used, alternative tools like PuTTY provide reliable access when native tools are unavailable or misconfigured.
