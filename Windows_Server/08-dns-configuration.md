@@ -25,7 +25,7 @@ In this lab, I configured Domain Name System (DNS) on Windows Server 2025 to ens
 - Name (server1)
 - IP address
 
-![dns-host-name](images/dns-configuration/dns-host-name.png)
+![dns-host-name](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dns-configuration/dns-host-name.png)
 
 ### 5. Testing DNS Resolution
 - Opened Command Prompt
@@ -33,14 +33,13 @@ In this lab, I configured Domain Name System (DNS) on Windows Server 2025 to ens
  nslookup server1
 - Verified correct IP resolution
 
-![nslookup](images/dns-configuration/nslookup.png)
-
+![nslookup](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dns-configuration/nslookup.png)
 ### 6. Testing Domain Resolution
 - Pinged the domain name:
 ping yourdomain.local
 - Confirmed successful response
 
-![test-dns](images/dns-configuration/test-dns.png)
+![test-dns](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/dns-configuration/test-dns.png)
 
 
 ## Lesson learned 
