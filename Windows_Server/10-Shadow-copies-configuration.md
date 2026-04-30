@@ -13,33 +13,33 @@ In this lab, I configured Shadow Copies on Windows Server 2025 to enable file re
 - clicked on the drive (e.g., C: or D:)
 - Selected Properties → Shadow Copies
 
-![shadow-copy](images/shadow-copies/shadow-copy.png)
+![shadow-copy](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/shadow-copies/shadow-copy.png)
 
 ### 2. Enabling Shadow Copies
 - Selected the drive
 - Clicked Enable
 - Configured storage settings (optional)
 
-![copy-enabled](images/shadow-copies/copy-enabled.png)
+![copy-enabled](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/shadow-copies/copy-enabled.png)
 
 ### 3. Creating a Restore Point
 - Clicked Create Now to manually create a snapshot
 
-![create-now](images/shadow-copies/create-now.png)
+![create-now](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/shadow-copies/create-now.png)
 
 ### 4. Simulating File Deletion
 - Deleted or modified a file in the shared folder
 
-- ![delete1](images/shadow-copies/delete1.png)
+- ![delete1](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/shadow-copies/delete1.png)
 
-- ![delete2](images/shadow-copies/delete2.png)
+- ![delete2](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/shadow-copies/delete2.png)
 
 ### 5. Restoring Previous Version
 - Right-clicked folder → Properties → Previous Versions
 - Selected a snapshot
 - Clicked Restore or Open
 
-![restore-confirmed](images/shadow-copies/restore-confirmed.png)
+![restore-confirmed](https://github.com/kelbrown-ops/Networking-sysadmin-labs/blob/main/images/shadow-copies/restore-confirmed.png)
 
 ## Challenges Encountered
 - No major issues encountered
